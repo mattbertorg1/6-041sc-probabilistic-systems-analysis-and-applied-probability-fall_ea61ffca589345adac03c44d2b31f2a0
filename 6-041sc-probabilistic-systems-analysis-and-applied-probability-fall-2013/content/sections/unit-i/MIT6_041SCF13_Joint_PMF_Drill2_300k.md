@@ -1,0 +1,13 @@
+---
+course_id: 6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013
+description: ''
+file_location: /coursemedia/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/5b9c6610dde152f404df29d0a7001c7a_MIT6_041SCF13_Joint_PMF_Drill2_300k.pdf
+file_type: application/pdf
+layout: pdf
+title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013Transcript\
+  \ \u2013 Recitation: Joint Probability Mass Function (PMF) Drill 2"
+type: course
+uid: 5b9c6610dde152f404df29d0a7001c7a
+
+---
+None
